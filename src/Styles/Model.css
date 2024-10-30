@@ -1,0 +1,15 @@
+
+.fixed {
+    position: fixed;
+  }
+  
+  .bg-black {
+    background-color: black;
+  }
+  
+  .bg-opacity-70 {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+
+  
